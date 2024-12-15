@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517668469287",
+    "project_id": "hirehousecleanersnew",
+    "storage_bucket": "hirehousecleanersnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517668469287:android:f50db0babf6cc57fdc2c02",
+        "android_client_info": {
+          "package_name": "com.example.hirehousecleaners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7eRId6rv4N9tTOV_vlFEYWcSKqBbpnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517668469287:android:31db67b7e499e5e1dc2c02",
+        "android_client_info": {
+          "package_name": "com.example.recipeappwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7eRId6rv4N9tTOV_vlFEYWcSKqBbpnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
